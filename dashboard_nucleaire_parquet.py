@@ -80,7 +80,7 @@ COUNTRY               = "FR"
 TZ                    = "Europe/Paris"
 SEUIL_ON_PCT          = 5
 N_COLS_SPARKLINES     = 4
-BLOC_JOURS            = 7      # taille des blocs pour les requêtes ENTSO-E multi-jours
+BLOC_JOURS            = 30      # taille des blocs pour les requêtes ENTSO-E multi-jours
 MAX_SHAPES            = 56     # limite des hlines décoratifs dans les sparklines
 
 # ── Chemins du cache local ─────────────────────────────────────────
